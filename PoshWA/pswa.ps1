@@ -22,4 +22,4 @@ Function settings{
 ## Call Functions ##
 pswainst
 settings
-Exit 0
+Exit
