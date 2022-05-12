@@ -3,8 +3,7 @@
                 ===========================================================================
                 Created with:   SAPIEN Technologies, Inc., PowerShell Studio 2015 v4.2.82
                 Created on:       10/28/2015 1:24 PM
-                Created by:       jchandle
-                Organization:    PIMCO
+
                 Filename:           template.ps1     
                 ===========================================================================
                 .DESCRIPTION
